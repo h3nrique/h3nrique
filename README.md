@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=h3nrique&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nrique&layout=compact"/>
+</div>
+
 <!--
 **h3nrique/h3nrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
